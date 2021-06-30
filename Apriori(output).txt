@@ -1,0 +1,1003 @@
+Enter the minimum support (as an integer value):
+4
+Transaction Number: 1:
+Item number 1 = 111
+Item number 2 = 444
+Item number 3 = 555
+Transaction Number: 2:
+Item number 1 = 333
+Item number 2 = 444
+Item number 3 = 111
+Transaction Number: 3:
+Item number 1 = 777
+Item number 2 = 444
+Item number 3 = 888
+Item number 4 = 998
+Transaction Number: 4:
+Item number 1 = 334
+Item number 2 = 223
+Transaction Number: 5:
+Item number 1 = 999
+Transaction Number: 6:
+Item number 1 = 111
+Transaction Number: 7:
+Item number 1 = 334
+Item number 2 = 223
+Item number 3 = 222
+Transaction Number: 8:
+Item number 1 = 888
+Item number 2 = 222
+Item number 3 = 222
+Item number 4 = 224
+Transaction Number: 9:
+Item number 1 = 555
+Item number 2 = 333
+Transaction Number: 10:
+Item number 1 = 222
+Transaction Number: 11:
+Item number 1 = 334
+Item number 2 = 223
+Item number 3 = 222
+Transaction Number: 12:
+Item number 1 = 998
+Transaction Number: 13:
+Item number 1 = 889
+Item number 2 = 334
+Transaction Number: 14:
+Item number 1 = 333
+Item number 2 = 444
+Item number 3 = 555
+Transaction Number: 15:
+Item number 1 = 444
+Transaction Number: 16:
+Item number 1 = 333
+Item number 2 = 111
+Item number 3 = 444
+Item number 4 = 555
+Transaction Number: 17:
+Item number 1 = 223
+Transaction Number: 18:
+Item number 1 = 222
+Item number 2 = 223
+Item number 3 = 111
+Item number 4 = 334
+Transaction Number: 19:
+Item number 1 = 888
+Item number 2 = 889
+Item number 3 = 334
+Transaction Number: 20:
+Item number 1 = 444
+Transaction Number: 21:
+Item number 1 = 889
+Item number 2 = 224
+Transaction Number: 22:
+Item number 1 = 333
+Item number 2 = 777
+Item number 3 = 224
+Transaction Number: 23:
+Item number 1 = 666
+Item number 2 = 111
+Item number 3 = 777
+Item number 4 = 223
+Transaction Number: 24:
+Item number 1 = 334
+Item number 2 = 224
+Item number 3 = 889
+Transaction Number: 25:
+Item number 1 = 222
+Item number 2 = 333
+Transaction Number: 26:
+Item number 1 = 777
+Item number 2 = 666
+Item number 3 = 224
+Transaction Number: 27:
+Item number 1 = 888
+Item number 2 = 333
+Transaction Number: 28:
+Item number 1 = 555
+Item number 2 = 999
+Item number 3 = 334
+Item number 4 = 444
+Item number 5 = 999
+Transaction Number: 29:
+Item number 1 = 666
+Item number 2 = 998
+Transaction Number: 30:
+Item number 1 = 666
+Item number 2 = 111
+Transaction Number: 31:
+Item number 1 = 334
+Item number 2 = 333
+Transaction Number: 32:
+Item number 1 = 333
+Transaction Number: 33:
+Item number 1 = 223
+Item number 2 = 999
+Transaction Number: 34:
+Item number 1 = 333
+Item number 2 = 666
+Item number 3 = 889
+Transaction Number: 35:
+Item number 1 = 334
+Item number 2 = 888
+Item number 3 = 444
+Transaction Number: 36:
+Item number 1 = 224
+Item number 2 = 223
+Item number 3 = 889
+Item number 4 = 555
+Transaction Number: 37:
+Item number 1 = 998
+Item number 2 = 666
+Item number 3 = 999
+Transaction Number: 38:
+Item number 1 = 223
+Item number 2 = 999
+Transaction Number: 39:
+Item number 1 = 111
+Item number 2 = 111
+Item number 3 = 998
+Item number 4 = 334
+Transaction Number: 40:
+Item number 1 = 222
+Item number 2 = 999
+Item number 3 = 888
+Item number 4 = 889
+Transaction Number: 41:
+Item number 1 = 333
+Item number 2 = 777
+Item number 3 = 555
+Item number 4 = 998
+Item number 5 = 334
+Transaction Number: 42:
+Item number 1 = 223
+Item number 2 = 224
+Transaction Number: 43:
+Item number 1 = 666
+Transaction Number: 44:
+Item number 1 = 334
+Transaction Number: 45:
+Item number 1 = 222
+Item number 2 = 999
+Item number 3 = 999
+Transaction Number: 46:
+Item number 1 = 666
+Item number 2 = 333
+Item number 3 = 999
+Transaction Number: 47:
+Item number 1 = 998
+Transaction Number: 48:
+Item number 1 = 777
+Item number 2 = 555
+Item number 3 = 999
+Item number 4 = 224
+Transaction Number: 49:
+Item number 1 = 334
+Item number 2 = 999
+Item number 3 = 999
+Item number 4 = 334
+Transaction Number: 50:
+Item number 1 = 666
+Transaction Number: 51:
+Item number 1 = 111
+Transaction Number: 52:
+Item number 1 = 224
+Item number 2 = 444
+Transaction Number: 53:
+Item number 1 = 222
+Item number 2 = 333
+Transaction Number: 54:
+Item number 1 = 666
+Item number 2 = 888
+Transaction Number: 55:
+Item number 1 = 224
+Item number 2 = 889
+Item number 3 = 334
+Item number 4 = 222
+Transaction Number: 56:
+Item number 1 = 224
+Item number 2 = 888
+Item number 3 = 333
+Transaction Number: 57:
+Item number 1 = 777
+Item number 2 = 999
+Transaction Number: 58:
+Item number 1 = 444
+Item number 2 = 555
+Item number 3 = 222
+Transaction Number: 59:
+Item number 1 = 224
+Item number 2 = 224
+Item number 3 = 223
+Transaction Number: 60:
+Item number 1 = 777
+Item number 2 = 555
+Transaction Number: 61:
+Item number 1 = 777
+Item number 2 = 444
+Item number 3 = 111
+Item number 4 = 999
+Item number 5 = 555
+Transaction Number: 62:
+Item number 1 = 889
+Transaction Number: 63:
+Item number 1 = 888
+Item number 2 = 555
+Item number 3 = 888
+Item number 4 = 998
+Transaction Number: 64:
+Item number 1 = 444
+Item number 2 = 111
+Item number 3 = 224
+Item number 4 = 444
+Transaction Number: 65:
+Item number 1 = 111
+Item number 2 = 666
+Transaction Number: 66:
+Item number 1 = 111
+Item number 2 = 444
+Item number 3 = 222
+Item number 4 = 666
+Transaction Number: 67:
+Item number 1 = 444
+Transaction Number: 68:
+Item number 1 = 334
+Item number 2 = 333
+Item number 3 = 889
+Item number 4 = 111
+Transaction Number: 69:
+Item number 1 = 999
+Transaction Number: 70:
+Item number 1 = 777
+Item number 2 = 444
+Item number 3 = 555
+Item number 4 = 888
+Transaction Number: 71:
+Item number 1 = 889
+Item number 2 = 444
+Item number 3 = 666
+Item number 4 = 224
+Item number 5 = 999
+Transaction Number: 72:
+Item number 1 = 111
+Item number 2 = 777
+Transaction Number: 73:
+Item number 1 = 224
+Item number 2 = 334
+Item number 3 = 223
+Transaction Number: 74:
+Item number 1 = 777
+Item number 2 = 555
+Item number 3 = 999
+Item number 4 = 998
+Transaction Number: 75:
+Item number 1 = 111
+Transaction Number: 76:
+Item number 1 = 334
+Item number 2 = 222
+Item number 3 = 889
+Item number 4 = 111
+Transaction Number: 77:
+Item number 1 = 555
+Item number 2 = 999
+Item number 3 = 333
+Transaction Number: 78:
+Item number 1 = 222
+Item number 2 = 223
+Transaction Number: 79:
+Item number 1 = 444
+Item number 2 = 224
+Transaction Number: 80:
+Item number 1 = 111
+Transaction Number: 81:
+Item number 1 = 777
+Item number 2 = 889
+Item number 3 = 444
+Item number 4 = 888
+Item number 5 = 334
+Transaction Number: 82:
+Item number 1 = 334
+Item number 2 = 333
+Transaction Number: 83:
+Item number 1 = 444
+Item number 2 = 444
+Item number 3 = 222
+Transaction Number: 84:
+Item number 1 = 889
+Item number 2 = 111
+Transaction Number: 85:
+Item number 1 = 998
+Item number 2 = 998
+Item number 3 = 333
+Item number 4 = 444
+Item number 5 = 111
+Transaction Number: 86:
+Item number 1 = 333
+Item number 2 = 888
+Item number 3 = 998
+Transaction Number: 87:
+Item number 1 = 999
+Item number 2 = 889
+Item number 3 = 889
+Transaction Number: 88:
+Item number 1 = 222
+Item number 2 = 888
+Item number 3 = 224
+Item number 4 = 888
+Transaction Number: 89:
+Item number 1 = 334
+Item number 2 = 889
+Item number 3 = 889
+Item number 4 = 333
+Item number 5 = 222
+Transaction Number: 90:
+Item number 1 = 333
+Item number 2 = 666
+Item number 3 = 889
+Transaction Number: 91:
+Item number 1 = 111
+Item number 2 = 222
+Item number 3 = 555
+Transaction Number: 92:
+Item number 1 = 333
+Item number 2 = 777
+Item number 3 = 222
+Item number 4 = 889
+Transaction Number: 93:
+Item number 1 = 888
+Transaction Number: 94:
+Item number 1 = 222
+Item number 2 = 555
+Item number 3 = 889
+Transaction Number: 95:
+Item number 1 = 666
+Item number 2 = 998
+Item number 3 = 777
+Item number 4 = 889
+Transaction Number: 96:
+Item number 1 = 889
+Transaction Number: 97:
+Item number 1 = 111
+Item number 2 = 224
+Item number 3 = 334
+Transaction Number: 98:
+Item number 1 = 333
+Item number 2 = 888
+Item number 3 = 998
+Transaction Number: 99:
+Item number 1 = 333
+Transaction Number: 100:
+Item number 1 = 224
+Item number 2 = 222
+Item number 3 = 333
+Transaction Number: 101:
+Item number 1 = 223
+Item number 2 = 444
+Item number 3 = 889
+Item number 4 = 223
+Transaction Number: 102:
+Item number 1 = 888
+Item number 2 = 998
+Item number 3 = 224
+Item number 4 = 333
+Transaction Number: 103:
+Item number 1 = 777
+Item number 2 = 888
+Transaction Number: 104:
+Item number 1 = 223
+Item number 2 = 888
+Item number 3 = 889
+Transaction Number: 105:
+Item number 1 = 444
+Item number 2 = 666
+Item number 3 = 999
+Item number 4 = 223
+Transaction Number: 106:
+Item number 1 = 333
+Transaction Number: 107:
+Item number 1 = 333
+Transaction Number: 108:
+Item number 1 = 333
+Item number 2 = 444
+Item number 3 = 555
+Item number 4 = 998
+Item number 5 = 334
+Transaction Number: 109:
+Item number 1 = 333
+Transaction Number: 110:
+Item number 1 = 998
+Item number 2 = 444
+Item number 3 = 224
+Transaction Number: 111:
+Item number 1 = 889
+Item number 2 = 223
+Item number 3 = 444
+Transaction Number: 112:
+Item number 1 = 999
+Item number 2 = 222
+Item number 3 = 889
+Item number 4 = 222
+Transaction Number: 113:
+Item number 1 = 777
+Item number 2 = 222
+Item number 3 = 555
+Item number 4 = 888
+Transaction Number: 114:
+Item number 1 = 333
+Item number 2 = 998
+Transaction Number: 115:
+Item number 1 = 333
+Item number 2 = 777
+Item number 3 = 999
+Item number 4 = 889
+Transaction Number: 116:
+Item number 1 = 444
+Item number 2 = 334
+Transaction Number: 117:
+Item number 1 = 223
+Item number 2 = 777
+Transaction Number: 118:
+Item number 1 = 333
+Transaction Number: 119:
+Item number 1 = 998
+Item number 2 = 334
+Item number 3 = 666
+Item number 4 = 334
+Transaction Number: 120:
+Item number 1 = 224
+Item number 2 = 222
+Item number 3 = 333
+Transaction Number: 121:
+Item number 1 = 888
+Transaction Number: 122:
+Item number 1 = 111
+Item number 2 = 334
+Item number 3 = 444
+Transaction Number: 123:
+Item number 1 = 111
+Item number 2 = 222
+Item number 3 = 555
+Item number 4 = 998
+Transaction Number: 124:
+Item number 1 = 111
+Item number 2 = 666
+Item number 3 = 889
+Transaction Number: 125:
+Item number 1 = 222
+Item number 2 = 333
+Transaction Number: 126:
+Item number 1 = 111
+Item number 2 = 224
+Item number 3 = 888
+Item number 4 = 888
+Transaction Number: 127:
+Item number 1 = 777
+Item number 2 = 224
+Transaction Number: 128:
+Item number 1 = 666
+Item number 2 = 334
+Item number 3 = 666
+Item number 4 = 998
+Transaction Number: 129:
+Item number 1 = 111
+Item number 2 = 222
+Item number 3 = 555
+Item number 4 = 998
+Transaction Number: 130:
+Item number 1 = 333
+Item number 2 = 999
+Item number 3 = 998
+Transaction Number: 131:
+Item number 1 = 998
+Item number 2 = 333
+Item number 3 = 224
+Item number 4 = 111
+Transaction Number: 132:
+Item number 1 = 333
+Item number 2 = 444
+Item number 3 = 999
+Transaction Number: 133:
+Item number 1 = 666
+Transaction Number: 134:
+Item number 1 = 444
+Item number 2 = 444
+Transaction Number: 135:
+Item number 1 = 222
+Item number 2 = 666
+Item number 3 = 889
+Transaction Number: 136:
+Item number 1 = 444
+Item number 2 = 333
+Item number 3 = 889
+Item number 4 = 223
+Transaction Number: 137:
+Item number 1 = 666
+Item number 2 = 222
+Item number 3 = 224
+Item number 4 = 224
+Transaction Number: 138:
+Item number 1 = 223
+Transaction Number: 139:
+Item number 1 = 998
+Item number 2 = 111
+Item number 3 = 222
+Transaction Number: 140:
+Item number 1 = 777
+Transaction Number: 141:
+Item number 1 = 111
+Item number 2 = 224
+Transaction Number: 142:
+Item number 1 = 777
+Item number 2 = 888
+Transaction Number: 143:
+Item number 1 = 555
+Item number 2 = 222
+Transaction Number: 144:
+Item number 1 = 998
+Item number 2 = 666
+Transaction Number: 145:
+Item number 1 = 555
+Item number 2 = 889
+Item number 3 = 666
+Item number 4 = 666
+Transaction Number: 146:
+Item number 1 = 334
+Transaction Number: 147:
+Item number 1 = 222
+Item number 2 = 555
+Item number 3 = 222
+Transaction Number: 148:
+Item number 1 = 333
+Item number 2 = 555
+Item number 3 = 555
+Transaction Number: 149:
+Item number 1 = 999
+Transaction Number: 150:
+Item number 1 = 223
+Item number 2 = 998
+Item number 3 = 998
+Transaction Number: 151:
+Item number 1 = 888
+Item number 2 = 666
+Item number 3 = 888
+Item number 4 = 222
+Transaction Number: 152:
+Item number 1 = 777
+Transaction Number: 153:
+Item number 1 = 888
+Transaction Number: 154:
+Item number 1 = 999
+Item number 2 = 999
+Item number 3 = 224
+Item number 4 = 999
+Transaction Number: 155:
+Item number 1 = 223
+Item number 2 = 666
+Transaction Number: 156:
+Item number 1 = 888
+Item number 2 = 666
+Item number 3 = 444
+Item number 4 = 889
+Transaction Number: 157:
+Item number 1 = 999
+Item number 2 = 666
+Item number 3 = 223
+Transaction Number: 158:
+Item number 1 = 223
+Item number 2 = 555
+Transaction Number: 159:
+Item number 1 = 555
+Transaction Number: 160:
+Item number 1 = 555
+Item number 2 = 889
+Item number 3 = 334
+Transaction Number: 161:
+Item number 1 = 333
+Item number 2 = 222
+Item number 3 = 334
+Transaction Number: 162:
+Item number 1 = 222
+Item number 2 = 555
+Item number 3 = 334
+Transaction Number: 163:
+Item number 1 = 222
+Item number 2 = 998
+Item number 3 = 111
+Item number 4 = 224
+Item number 5 = 222
+Transaction Number: 164:
+Item number 1 = 889
+Transaction Number: 165:
+Item number 1 = 333
+Item number 2 = 224
+Item number 3 = 444
+Item number 4 = 333
+Transaction Number: 166:
+Item number 1 = 555
+Item number 2 = 334
+Item number 3 = 222
+Transaction Number: 167:
+Item number 1 = 333
+Item number 2 = 444
+Item number 3 = 555
+Transaction Number: 168:
+Item number 1 = 444
+Transaction Number: 169:
+Item number 1 = 224
+Item number 2 = 333
+Item number 3 = 222
+Item number 4 = 555
+Transaction Number: 170:
+Item number 1 = 222
+Item number 2 = 223
+Transaction Number: 171:
+Item number 1 = 111
+Item number 2 = 222
+Item number 3 = 555
+Item number 4 = 888
+Item number 5 = 334
+Transaction Number: 172:
+Item number 1 = 334
+Item number 2 = 555
+Transaction Number: 173:
+Item number 1 = 334
+Transaction Number: 174:
+Item number 1 = 999
+Item number 2 = 555
+Item number 3 = 224
+Transaction Number: 175:
+Item number 1 = 333
+Transaction Number: 176:
+Item number 1 = 889
+Transaction Number: 177:
+Item number 1 = 111
+Item number 2 = 889
+Item number 3 = 111
+Item number 4 = 444
+Transaction Number: 178:
+Item number 1 = 998
+Transaction Number: 179:
+Item number 1 = 777
+Transaction Number: 180:
+Item number 1 = 777
+Item number 2 = 555
+Item number 3 = 111
+Transaction Number: 181:
+Item number 1 = 998
+Transaction Number: 182:
+Item number 1 = 333
+Item number 2 = 111
+Item number 3 = 998
+Transaction Number: 183:
+Item number 1 = 666
+Item number 2 = 999
+Item number 3 = 889
+Transaction Number: 184:
+Item number 1 = 333
+Item number 2 = 999
+Item number 3 = 998
+Transaction Number: 185:
+Item number 1 = 999
+Item number 2 = 444
+Item number 3 = 224
+Item number 4 = 998
+Transaction Number: 186:
+Item number 1 = 333
+Transaction Number: 187:
+Item number 1 = 888
+Transaction Number: 188:
+Item number 1 = 224
+Item number 2 = 666
+Item number 3 = 111
+Item number 4 = 888
+Item number 5 = 888
+Transaction Number: 189:
+Item number 1 = 222
+Item number 2 = 444
+Item number 3 = 333
+Transaction Number: 190:
+Item number 1 = 889
+Item number 2 = 555
+Transaction Number: 191:
+Item number 1 = 333
+Item number 2 = 888
+Item number 3 = 889
+Item number 4 = 223
+Transaction Number: 192:
+Item number 1 = 111
+Transaction Number: 193:
+Item number 1 = 334
+Transaction Number: 194:
+Item number 1 = 777
+Item number 2 = 889
+Item number 3 = 334
+Transaction Number: 195:
+Item number 1 = 998
+Item number 2 = 666
+Item number 3 = 333
+Item number 4 = 777
+Transaction Number: 196:
+Item number 1 = 333
+Item number 2 = 334
+Transaction Number: 197:
+Item number 1 = 998
+Item number 2 = 777
+Item number 3 = 333
+Item number 4 = 224
+Transaction Number: 198:
+Item number 1 = 999
+Item number 2 = 889
+Item number 3 = 889
+Item number 4 = 444
+ ITEM PAIRS:L 
+[555] : 37
+teisco
+[334] : 38
+verizon
+[666] : 31
+yamaha
+[444] : 39
+hip-hop
+[222] : 41
+country
+[998] : 34
+acer
+[224] : 35
+t_mobile
+[777] : 28
+cell phone
+[889] : 40
+dell
+[888] : 29
+lention
+[111] : 37
+speakers
+[333] : 53
+laptop
+[223] : 26
+at&t
+[999] : 30
+cooskin
+ ITEM PAIRS:L 
+[444, 777] : 4
+hip-hop
+cell phone
+[334, 555] : 8
+verizon
+teisco
+[334, 888] : 4
+verizon
+lention
+[444, 333] : 10
+hip-hop
+laptop
+[223, 334] : 5
+at&t
+verizon
+[222, 666] : 4
+country
+yamaha
+[222, 334] : 10
+country
+verizon
+[223, 224] : 4
+at&t
+t_mobile
+[666, 777] : 4
+yamaha
+cell phone
+[444, 889] : 8
+hip-hop
+dell
+[222, 555] : 12
+country
+teisco
+[222, 889] : 8
+country
+dell
+[333, 998] : 13
+laptop
+acer
+[998, 777] : 6
+acer
+cell phone
+[555, 999] : 6
+teisco
+cooskin
+[888, 777] : 6
+lention
+cell phone
+[888, 224] : 6
+lention
+t_mobile
+[666, 111] : 6
+yamaha
+speakers
+[444, 555] : 9
+hip-hop
+teisco
+[666, 889] : 9
+yamaha
+dell
+[111, 224] : 7
+speakers
+t_mobile
+[666, 999] : 6
+yamaha
+cooskin
+[222, 444] : 4
+country
+hip-hop
+[555, 224] : 4
+teisco
+t_mobile
+[111, 333] : 6
+speakers
+laptop
+[889, 777] : 5
+dell
+cell phone
+[222, 333] : 10
+country
+laptop
+[333, 999] : 6
+laptop
+cooskin
+[223, 889] : 6
+at&t
+dell
+[334, 889] : 10
+verizon
+dell
+[333, 777] : 6
+laptop
+cell phone
+[888, 555] : 4
+lention
+teisco
+[333, 555] : 9
+laptop
+teisco
+[889, 888] : 6
+dell
+lention
+[889, 999] : 7
+dell
+cooskin
+[666, 333] : 4
+yamaha
+laptop
+[111, 555] : 8
+speakers
+teisco
+[999, 998] : 5
+cooskin
+acer
+[222, 998] : 4
+country
+acer
+[111, 777] : 4
+speakers
+cell phone
+[889, 111] : 5
+dell
+speakers
+[224, 777] : 5
+t_mobile
+cell phone
+[222, 888] : 6
+country
+lention
+[223, 666] : 4
+at&t
+yamaha
+[334, 111] : 7
+verizon
+speakers
+[333, 224] : 9
+laptop
+t_mobile
+[555, 998] : 6
+teisco
+acer
+[444, 666] : 4
+hip-hop
+yamaha
+[889, 333] : 8
+dell
+laptop
+[223, 444] : 4
+at&t
+hip-hop
+[666, 224] : 4
+yamaha
+t_mobile
+[999, 224] : 5
+cooskin
+t_mobile
+[222, 224] : 8
+country
+t_mobile
+[444, 111] : 9
+hip-hop
+speakers
+[998, 224] : 6
+acer
+t_mobile
+[444, 334] : 6
+hip-hop
+verizon
+[444, 888] : 5
+hip-hop
+lention
+[888, 333] : 6
+lention
+laptop
+[889, 224] : 5
+dell
+t_mobile
+[666, 998] : 7
+yamaha
+acer
+[444, 999] : 7
+hip-hop
+cooskin
+[334, 224] : 4
+verizon
+t_mobile
+[334, 333] : 8
+verizon
+laptop
+[444, 224] : 7
+hip-hop
+t_mobile
+[888, 998] : 5
+lention
+acer
+[444, 998] : 5
+hip-hop
+acer
+[223, 999] : 4
+at&t
+cooskin
+[889, 555] : 5
+dell
+teisco
+[334, 998] : 5
+verizon
+acer
+[222, 223] : 5
+country
+at&t
+[111, 998] : 8
+speakers
+acer
+[222, 111] : 9
+country
+speakers
+[666, 888] : 4
+yamaha
+lention
+[999, 777] : 5
+cooskin
+cell phone
+[555, 777] : 8
+teisco
+cell phone
+ ITEM PAIRS:L 
+[222, 111, 555] : 4
+country
+speakers
+teisco
+[222, 111, 998] : 4
+country
+speakers
+acer
+[444, 333, 555] : 4
+hip-hop
+laptop
+teisco
+ ITEM PAIRS:L 
+
+ FINAL UNIQUE LISTS 
+BUILD SUCCESSFUL (total time: 10 seconds)

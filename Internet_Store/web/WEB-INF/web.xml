@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app version="3.0" xmlns="http://java.sun.com/xml/ns/javaee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://java.sun.com/xml/ns/javaee http://java.sun.com/xml/ns/javaee/web-app_3_0.xsd">
+    <servlet>
+        <servlet-name>RegisterNewCustomer</servlet-name>
+        <servlet-class>backend.RegisterNewCustomer</servlet-class>
+    </servlet>
+    <servlet>
+        <servlet-name>LogintoCustomer</servlet-name>
+        <servlet-class>backend.LogintoCustomer</servlet-class>
+    </servlet>
+    <servlet>
+        <servlet-name>transactions</servlet-name>
+        <servlet-class>backend.transactions</servlet-class>
+    </servlet>
+    <servlet>
+        <servlet-name>RandomTrans</servlet-name>
+        <servlet-class>RandomTrans</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>RegisterNewCustomer</servlet-name>
+        <url-pattern>/RegisterNewCustomer</url-pattern>
+    </servlet-mapping>
+    <servlet-mapping>
+        <servlet-name>LogintoCustomer</servlet-name>
+        <url-pattern>/LogintoCustomer</url-pattern>
+    </servlet-mapping>
+    <servlet-mapping>
+        <servlet-name>transactions</servlet-name>
+        <url-pattern>/transactions</url-pattern>
+    </servlet-mapping>
+    <servlet-mapping>
+        <servlet-name>RandomTrans</servlet-name>
+        <url-pattern>/RandomTrans</url-pattern>
+    </servlet-mapping>
+    <session-config>
+        <session-timeout>
+            30
+        </session-timeout>
+    </session-config>
+</web-app>
